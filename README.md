@@ -20,4 +20,4 @@ Docker specs
 The Docker contatiner is for testing puropes so we can test to make sure that all the components work.
 
 How does the docker container link to the raspberry pi?
-The disto that i am using for testing is debian, which is the parent distro to rasbian or noods OS, which is used on the raspberry pi as the operating system so everything that work in debian should work on the pi.
+The disto that we are using for testing is debian, which is the parent distro to rasbian or noods OS, which is used on the raspberry pi as the operating system so everything that work in debian should work on the pi.

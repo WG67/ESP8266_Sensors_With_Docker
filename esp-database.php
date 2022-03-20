@@ -1,21 +1,12 @@
-<!--
-  Rui Santos
-  Complete project details at https://RandomNerdTutorials.com/cloud-weather-station-esp32-esp8266/
 
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files.
-
-  The above copyright notice and this permission notice shall be included in all
-  copies or substantial portions of the Software.
--->
 <?php
   $servername = "localhost";
 
-  // REPLACE with your Database name
+  
   $dbname = "Turbidity";
-  // REPLACE with Database user
+ 
   $username = "root";
-  // REPLACE with Database user password
+
   $password = "root";
 
   function insertReading($sensor, $location, $value1, $value2, $value3) {

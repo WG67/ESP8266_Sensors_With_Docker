@@ -34,7 +34,7 @@ A photo of the database in phpmyadmin:
 
 <img width="628" alt="Screenshot 2022-03-20 at 11 33 47" src="https://user-images.githubusercontent.com/73941653/159160762-01ab68c9-b7e4-4e10-a290-b56f066c4aba.png">
 
-In the final product, we were able to produce two sensors which is a temperature sensor and the turbidity sensor you can with the minimum and maximum values, also an update function at the top of the page so you can choose how many values you want to be shown, the min, max and avg values of the amount chosen will then be shown.
+In the final product, we were able to produce two sensors which is a temperature sensor and the turbidity sensor which both have minimum and maximum and average values. There is also an update function at the top of the page so you can choose how many values you want to be shown, the min, max and avg values of the amount chosen will then be shown.
 
 
 

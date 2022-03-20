@@ -13,9 +13,11 @@
 
 
 
+//replace with your network ssid
+const char* ssid = "";
 
-const char* ssid     = "BrightBox-eam5yh";
-const char* password = "lab-pipe-inner";
+//replace with your ssid password
+const char* password = "";
 
 // Domain name and URL path or IP address with path
 const char* serverName = "http://192.168.1.66/sensordata/post-esp-data.php";
